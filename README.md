@@ -8,7 +8,7 @@ Le script retourne uniquement le lien de l'image. Libre à vous de réadapter le
 
 Le script a besoin de beautifulsoup et requests pour fonctionner.
 
-    sudo pip3 iinstall beautifulsoup4
+    sudo pip3 install beautifulsoup4
 
     sudo pip3 install requests
 
